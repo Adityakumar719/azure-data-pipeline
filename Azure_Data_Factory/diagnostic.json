@@ -1,0 +1,23 @@
+{
+    "now": "2025-10-05T07:59:06.313Z",
+    "perfNow": 34149.59999996424,
+    "diagnosticCorrelation": "cbc4a378-feb3-46ab-bb96-f93111830068",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.093025.4",
+        "environmentType": 3,
+        "resourceName": "adf-az-project1",
+        "resourceRegion": "centralindia",
+        "resourceGroup": "AZPROEJCT",
+        "subscriptionId": "24ae293a-ac4f-4737-8fd1-e8d66475e52d",
+        "sessionId": "NhZob7NHqKixpwwERGmXm2",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "2a34a5f4-6b46-471a-9190-fcf9d5102819"
+    },
+    "additionalInfo": {
+        "selectedResource": "DynamicGitToRaw",
+        "selectedResourceType": "pipeline"
+    }
+}

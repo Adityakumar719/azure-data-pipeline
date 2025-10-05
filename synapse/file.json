@@ -1,0 +1,51 @@
+{
+    "properties": {
+        "settings": {
+            "azureADOnlyAuthentication": {
+                "value": false,
+                "state": "Consistent"
+            }
+        },
+        "defaultDataLakeStorage": {
+            "resourceId": "/sectsynapse",
+            "createManagedPrivateEndpoint": false,
+            "accountUrl": "httt",
+            "filesystem": "defaultfielsystemsynapse"
+        },
+        "encryption": {
+            "doubleEncryptionEnabled": false
+        },
+        "provisioningState": "Succeeded",
+        "connectivityEndpoints": {
+            "web": "https://we.Synapse%2fworkspaces%2fazprojec",
+            "dev": "https://azprojec.dev.azuresynapse.net",
+            "sqlOnDemand": "azprojec-ondemand.sql.azuresynapse.net",
+            "sql": "azprojec.sql.azuresynapse.net"
+        },
+        "managedResourceGroupName": "azprojectsynapse",
+        "sqlAdministratorLogin": "adminaditya",
+        "privateEndpointConnections": [],
+        "workspaceUID": "---",
+        "extraProperties": {
+            "WorkspaceType": "Normal",
+            "IsScopeEnabled": false
+        },
+        "publicNetworkAccess": "Enabled",
+        "cspWorkspaceAdminProperties": {
+            "initialWorkspaceAdminObjectId": "---"
+        },
+        "azureADOnlyAuthentication": false,
+        "trustedServiceBypassEnabled": false
+    },
+    "type": "Microsoft.Synapse/workspaces",
+    "id": "/subscriptions/24ae293a-ac4f-4737-8fd1-e8d66475e52d/resourceGroups/AZPROEJCT/providers/Microsoft.Synapse/workspaces/azprojec",
+    "location": "centralindia",
+    "name": "azprojec",
+    "identity": {
+        "type": "SystemAssigned",
+        "tenantId": "---",
+        "principalId": "---"
+    },
+    "tags": {},
+    "apiVersion": "2021-06-01"
+}

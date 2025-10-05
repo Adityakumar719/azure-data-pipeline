@@ -1,0 +1,6 @@
+selected resource name:		DynamicGitToRaw
+selected resource type:		pipeline
+factory name:			adf-az-project1
+factory location:		centralindia
+subscription id:		24ae293a-ac4f-4737-8fd1-e8d66475e52d
+time of download (UTC):		Sun, 05 Oct 2025 07:59:06 GMT
